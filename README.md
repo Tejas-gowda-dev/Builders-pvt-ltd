@@ -57,15 +57,6 @@ A modern, high-performance, and conversion-focused business website designed and
 npm install
 ```
 
-### 2. Environment Configuration
-
-Copy `.env.example` to `.env.local` or `.env`:
-
-```bash
-# Configurable business WhatsApp number (defaults to +91 9916337333)
-VITE_WHATSAPP_NUMBER="919916337333"
-NEXT_PUBLIC_WHATSAPP_NUMBER="919916337333"
-```
 
 ### 3. Development Server
 
